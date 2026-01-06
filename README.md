@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<ORG_NAME>/.github/main/assets/automind-logo.png"
-       alt="Automind Infotech Private Ltd"
-       width="260"/>
+  
 </p>
 
 <h1 align="center">Automind Infotech Private Ltd</h1>
@@ -13,8 +11,8 @@
 
 <p align="center">
   <a href="https://automindinfotech.com/newsite2/">🌐 Website</a> •
-  <a href="https://www.linkedin.com/company/automind-infotech/">💼 LinkedIn</a> •
-  <a href="mailto:info@automindinfotech.com">📧 Contact</a>
+  <a href="https://www.linkedin.com/company/automind-infotech-pvt-ldt/posts/?feedView=all">💼 LinkedIn</a> •
+  <a href="mailto:contact@automindinfotech.com">📧 Contact</a>
 </p>
 
 ---
