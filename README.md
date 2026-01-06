@@ -6,10 +6,6 @@
 
 <h1 align="center">Automind Infotech Private Ltd</h1>
 
-<p align="center">
-  <strong>Engineering Intelligent Digital Solutions</strong>
-</p>
-
 
 <p align="center">
   <strong>Engineering Intelligent Digital Solutions</strong>
